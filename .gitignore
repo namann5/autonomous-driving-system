@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+*.egg
+*.whl
+
+# Environment
+.env
+.venv/
+venv/
+
+# Node
+node_modules/
+frontend/dist/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Output videos from ADAS
+*.mp4
+
+# Screenshots
+screenshot_*.jpg
+
+# Large model files
+*.pt
+*.pth
+*.onnx
